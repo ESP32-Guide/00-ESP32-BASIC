@@ -1,5 +1,9 @@
 # 00-ESP32-BASIC
 
+[Download for others](https://micropython.org/download/)
+
+
+# ESP32 + Linux
 Since the script was downloaded and executed directly to stdout, it wasn't saved to a file on your system. You can re-download and run the script in one command using `wget` and `bash` together. Here's how you can do it:
 
 1. **Download and run the installer script directly**:
